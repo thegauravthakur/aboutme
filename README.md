@@ -1,4 +1,4 @@
-# gaurav_thakur
+# "About Me" Application 
 
 An application that contains all the contact informations about Gaurav Thakur
 
